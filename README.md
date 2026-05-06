@@ -79,20 +79,6 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Dongxu Liu's GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=ldx825&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
----
 
 ## 🧩 3D Contribution Graph
 
