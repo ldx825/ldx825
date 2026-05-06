@@ -2,9 +2,7 @@
 
 I am an undergraduate student at the **School of Artificial Intelligence, Jilin University**.
 
-My interests include **machine learning**, **sparse optimization**, **zeroth-order optimization**, **spiking neural networks**, **efficient AI systems**, and **multimodal learning**.
-
-I enjoy exploring research problems that connect theoretical analysis with practical AI applications.
+My interests include **machine learning**, **spiking neural networks**, ,**LLM** and **MLLM**.
 
 ---
 
@@ -27,12 +25,7 @@ I have participated in several research projects related to:
 - Efficient large language models
 - Nonsmooth minimax optimization
 
-Some of my recent works have been submitted to or accepted by conferences including:
-
-- **AAAI 2026**
-- **AISTATS 2026**
-- **CVPR 2026**
-- **ICML 2026**
+Some of my recent works have been submitted to or accepted by conferences including: **AAAI 2026**,**AISTATS 2026**,**CVPR 2026**,**ICML 2026**.
 
 ---
 
@@ -56,20 +49,15 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 - Python / C / C++
 - Machine Learning
-- Stochastic Optimization
-- Sparse Learning
-- Spiking Neural Networks
-- Neuromorphic Computing
-- Algorithm Implementation
-
+- LLM
 ---
 
 ## 🌱 About Me
 
-I am self-driven and interested in both theoretical research and practical AI systems.  
+I am self-driven and interested in both theoretical research and practical AI methods.  
 I hope to work on meaningful AI problems that are technically challenging and useful in real-world scenarios.
 
-Outside research, I enjoy basketball, table tennis, and cycling.
+Outside research, I enjoy **basketball**, **table tennis**, and **cycling**.
 
 ---
 
@@ -77,5 +65,5 @@ Outside research, I enjoy basketball, table tennis, and cycling.
 
 - Email: **liudx9924@mails.jlu.edu.cn**
 - GitHub: **[@ldx825](https://github.com/ldx825)**
-- Homepage: Coming soon
-- Google Scholar: Coming soon
+- Homepage: **[hello~~](https://ldx825.github.io/liudongxu825.github.io/)**
+- Google Scholar: **[Paper List](https://scholar.google.com/citations?user=053eRGQAAAAJ&hl=en)**
