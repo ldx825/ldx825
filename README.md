@@ -87,9 +87,16 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Dongxu Liu's GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&hide_border=true&bg_color=00000000&cache_seconds=86400&v=1" alt="Dongxu Liu's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&hide_border=true&bg_color=00000000&cache_seconds=86400&v=1" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
