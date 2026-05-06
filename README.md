@@ -75,11 +75,7 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 ## 🛠️ Skills
 
-- Python / C / C++
-- Machine Learning
-- Spiking Neural Networks
-- Large Language Models
-- Multimodal Large Language Models
+- Python / C / C++ / Linux / Git / tmux
 
 ---
 
@@ -87,23 +83,15 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&hide_border=true&bg_color=00000000&cache_seconds=86400&v=1" alt="Dongxu Liu's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&hide_border=true&bg_color=00000000&cache_seconds=86400&v=1" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Dongxu Liu's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=ldx825&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ldx825&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 🧩 3D Contribution Graph
