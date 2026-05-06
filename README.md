@@ -1,8 +1,20 @@
+<div align="center">
+
 # Hi there, I'm Dongxu Liu 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Undergraduate+Student+at+Jilin+University;Machine+Learning+%7C+SNN+%7C+LLM+%7C+MLLM;Exploring+AI+Research+and+Practical+Methods)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ldx825.ldx825&left_color=green&right_color=red)
+
+</div>
+
+---
+
+## 👋 About Me
 
 I am an undergraduate student at the **School of Artificial Intelligence, Jilin University**.
 
-My interests include **machine learning**, **spiking neural networks**, ,**LLM** and **MLLM**.
+My interests include **machine learning**, **spiking neural networks**, **large language models (LLMs)**, and **multimodal large language models (MLLMs)**.
 
 ---
 
@@ -25,7 +37,7 @@ I have participated in several research projects related to:
 - Efficient large language models
 - Nonsmooth minimax optimization
 
-Some of my recent works have been submitted to or accepted by conferences including: **AAAI 2026**,**AISTATS 2026**,**CVPR 2026**,**ICML 2026**.
+Some of my recent works have been submitted to or accepted at conferences including **AAAI 2026**, **AISTATS 2026**, **CVPR 2026**, and **ICML 2026**.
 
 ---
 
@@ -49,10 +61,38 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 - Python / C / C++
 - Machine Learning
-- LLM
+- Spiking Neural Networks
+- Large Language Models
+- Multimodal Large Language Models
+
 ---
 
-## 🌱 About Me
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&theme=transparent&hide_border=true" alt="Dongxu Liu's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=ldx825&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🧩 3D Contribution Graph
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
+---
+
+## 🌱 Life
 
 I am self-driven and interested in both theoretical research and practical AI methods.  
 I hope to work on meaningful AI problems that are technically challenging and useful in real-world scenarios.
@@ -65,5 +105,19 @@ Outside research, I enjoy **basketball**, **table tennis**, and **cycling**.
 
 - Email: **liudx9924@mails.jlu.edu.cn**
 - GitHub: **[@ldx825](https://github.com/ldx825)**
-- Homepage: **[hello~~](https://ldx825.github.io/liudongxu825.github.io/)**
+- Homepage: **[Personal Homepage](https://ldx825.github.io/liudongxu825.github.io/)**
 - Google Scholar: **[Paper List](https://scholar.google.com/citations?user=053eRGQAAAAJ&hl=en)**
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
