@@ -2,9 +2,25 @@
 
 # Hi there, I'm Dongxu Liu 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Undergraduate+Student+at+Jilin+University;Machine+Learning+%7C+SNN+%7C+LLM+%7C+MLLM;Exploring+AI+Research+and+Practical+Methods)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Undergraduate+Student+at+Jilin+University;Machine+Learning+%7C+SNN+%7C+LLM+%7C+MLLM;Exploring+AI+Research+and+Practical+Methods" alt="Typing SVG" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ldx825.ldx825&left_color=green&right_color=red)
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ldx825&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -71,12 +87,13 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&theme=transparent&hide_border=true" alt="Dongxu Liu's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ldx825&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Dongxu Liu's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldx825&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=ldx825&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ldx825&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -86,7 +103,7 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 
 </div>
 
@@ -107,17 +124,3 @@ Outside research, I enjoy **basketball**, **table tennis**, and **cycling**.
 - GitHub: **[@ldx825](https://github.com/ldx825)**
 - Homepage: **[Personal Homepage](https://ldx825.github.io/liudongxu825.github.io/)**
 - Google Scholar: **[Paper List](https://scholar.google.com/citations?user=053eRGQAAAAJ&hl=en)**
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
