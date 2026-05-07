@@ -75,7 +75,7 @@ I have also worked on projects involving spiking neural networks on event-camera
 
 ## 🛠️ Skills
 
-- Python / Pytorch / C / C++ / Linux / Git / tmux / vibe coding / vibe research
+- Python / Pytorch / C / C++ / Linux / Git / tmux / vibe coding / vibe research / vibe writing
 
 ---
 
