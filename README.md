@@ -46,12 +46,9 @@ Undergraduate Student, 2024 – Present
 
 I have participated in several research projects related to:
 
-- Sparse AUC maximization
-- Zeroth-order and first-order stochastic optimization
+- Optimization
 - Spiking neural networks
-- ANN-to-SNN conversion
 - Efficient large language models
-- Nonsmooth minimax optimization
 
 Some of my recent works have been submitted to or accepted at conferences including **AAAI 2026**, **AISTATS 2026**, **CVPR 2026**, and **ICML 2026**.
 
