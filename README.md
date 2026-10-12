@@ -50,7 +50,7 @@ I have participated in several research projects related to:
 - Spiking neural networks
 - Efficient large language models
 
-Some of my recent works have been submitted to or accepted at conferences including **AAAI 2026**, **AISTATS 2026**, **CVPR 2026**, and **ICML 2026**.
+Some of my recent works have been submitted to or accepted at conferences including **AAAI 2026**, **AISTATS 2026**, **CVPR 2026**, **ECCV 2026**, **ICML 2026**, **TPAMI**, **Neurips 2026**, **ICLR 2027**, **ICASSP 2027**.
 
 ---
 
