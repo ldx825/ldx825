@@ -17,5 +17,4 @@
 
 [All publications and projects &rarr;](https://ldx825.github.io/liudongxu825.github.io/#publications)
 
-
-![](https://komarev.com/ghpvc/?username=ldx825&color=lightgrey&style=flat&label=Views)
+![](https://komarev.com/ghpvc/?username=ldx825&color=blue&style=flat&label=Views)
