@@ -1,104 +1,40 @@
-<div align="center">
+<h1 align="center">Dongxu Liu</h1>
 
-# Hi there, I'm Dongxu Liu 👋
+<p align="center">
+  Undergraduate in Artificial Intelligence, Jilin University<br>
+  Optimization &middot; Spiking Neural Networks &middot; Model Compression &middot; LLM Agents &middot; Embodied AI
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Undergraduate+Student+at+Jilin+University;Machine+Learning+%7C+SNN+%7C+LLM+%7C+MLLM;Exploring+AI+Research+and+Practical+Methods" alt="Typing SVG" />
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=ldx825&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldx825/ldx825/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="center">
+  <a href="https://ldx825.github.io/liudongxu825.github.io/">Homepage</a> &nbsp;&middot;&nbsp;
+  <a href="https://scholar.google.com/citations?user=053eRGQAAAAJ&hl=en">Google Scholar</a> &nbsp;&middot;&nbsp;
+  <a href="mailto:liudx9924@mails.jlu.edu.cn">Email</a>
+</p>
 
 ---
 
-## 👋 About Me
+**Now.** Research intern at AutoLab / Awaken Robotics, Shanghai Jiao Tong University, working on VLA and World Action Models with [Prof. Zhipeng Zhang](https://zhipengzhang.cn/).
 
-I am an undergraduate student at the **School of Artificial Intelligence, Jilin University**.
+**Selected papers.**
 
-My interests include **machine learning**, **spiking neural networks**, **large language models (LLMs)**, and **multimodal large language models (MLLMs)**.
+- *Towards Nonlinear Sparse AUC Maximization via Compositional Stochastic Hard Thresholding* &mdash; AAAI 2026
+- *Zeroth-Order Stochastic Compositional Gradient Descent: Towards Black-Box Sparse AUC Maximization* &mdash; AISTATS 2026
+- *Rethinking Gradient Approximation in Quantization: A Zeroth-Order Expectation Perspective* &mdash; NeurIPS 2026
 
----
+[All publications and projects &rarr;](https://ldx825.github.io/liudongxu825.github.io/#publications)
 
-## 🎓 Education
+**Experience.**
 
-**Jilin University**  
-School of Artificial Intelligence  
-Undergraduate Student, 2024 – Present
+| | |
+|---|---|
+| Shanghai Jiao Tong University, AutoLab / Awaken Robotics | Mar 2026 &ndash; Present |
+| Jilin University, College of Artificial Intelligence | Jul 2026 &ndash; Oct 2026 |
+| Jilin University, College of Artificial Intelligence | Jan 2025 &ndash; Mar 2026 |
 
----
-
-## 🔬 Research
-
-I have participated in several research projects related to:
-
-- Optimization
-- Spiking neural networks
-- Efficient large language models
-
-Some of my recent works have been submitted to or accepted at conferences including **AAAI 2026**, **AISTATS 2026**, **CVPR 2026**, **ICML 2026**, **ECCV 2026**, **TPAMI**, **Neurips 2026**, **ICLR 2027**, **ICASSP 2027**.
+**Service.** Reviewer for ICLR 2027 and ICASSP 2027.
 
 ---
-
-## 🚀 Projects
-
-### Neuromorphic LLM Deployment
-
-I am working on deploying spiking large language models on neuromorphic hardware, focusing on model spiking, operator mapping, on-chip inference, and algorithm-hardware co-design.
-
-### Machine Learning from Scratch
-
-I have implemented several classical machine learning algorithms from scratch, including k-NN, Naive Bayes, Decision Tree, Logistic Regression, SVM, Random Forest, AdaBoost, k-means, PCA, SVD, Apriori, and FP-growth.
-
-### Course & Practice
-
-I have also worked on projects involving spiking neural networks on event-camera datasets, evolutionary algorithms for TSP, and C/C++ game development.
-
----
-
-## 🛠️ Skills
-
-- Python / Pytorch / C / C++ / Linux / Git / tmux / vibe coding / vibe research / vibe writing
-
----
-
-
-## 🧩 3D Contribution Graph
 
 <div align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">
 </div>
-
----
-
-## 🌱 Life
-
-I am self-driven and interested in both theoretical research and practical AI methods.  
-I hope to work on meaningful AI problems that are technically challenging and useful in real-world scenarios.
-
-Outside research, I enjoy **basketball**, **table tennis**, and **cycling**.
-
----
-
-## 📫 Contact
-
-- Email: **liudx9924@mails.jlu.edu.cn**
-- GitHub: **[@ldx825](https://github.com/ldx825)**
-- Homepage: **[Personal Homepage](https://ldx825.github.io/liudongxu825.github.io/)**
-- Google Scholar: **[Paper List](https://scholar.google.com/citations?user=053eRGQAAAAJ&hl=en)**
